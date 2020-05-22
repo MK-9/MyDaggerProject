@@ -1,4 +1,4 @@
-package com.example.mydaggerproject.viewmodelfactory;
+package com.example.mydaggerproject.dagger.viewmodelfactory;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.ViewModel;

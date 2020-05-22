@@ -1,8 +1,10 @@
-package com.example.mydaggerproject.viewmodelfactory;
+package com.example.mydaggerproject.dagger;
 
 import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 
+import com.example.mydaggerproject.dagger.viewmodelfactory.ViewModelFactory;
+import com.example.mydaggerproject.dagger.viewmodelfactory.ViewModelKey;
 import com.example.mydaggerproject.viewmodel.MovieListViewModel;
 
 import dagger.Binds;
